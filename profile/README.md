@@ -64,7 +64,7 @@ We welcome anyone who’s pumped to join us—students, pros, interlopers—you 
 Connect with us:
 
 * **Discord**: Drop by the [Computer Society Discord](https://discord.gg/Hq6tfb9YtG)
-* **Email**: vcea‑mme‑[i.hernandez-domingu@wsu.edu](mailto:beckman@example.edu)
+* **Email**: [i.hernandez-domingu@wsu.edu](mailto:beckman@example.edu)
 * **Office Hours**: M-F, 9am–5pm in the Beckman Lab 🙂
 
 ---
